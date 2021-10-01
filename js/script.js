@@ -1,8 +1,8 @@
 // GET ADD EMPLOYEE FORM AND EMPLOYEE TABLE FROM THE DOM
 let form = document.querySelector('#addForm');
 let employees = document.querySelector('#employees');
-
 let empCount    = document.querySelector('#empCount');
+
 // SET A COUNT VARIABLE TO DISPLAY NEXT TO EMPLOYEES HEADER
 let count = 0;
 
